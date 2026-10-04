@@ -1,4 +1,4 @@
-# Proyecto-sprint-7
+Eta-used-vehicle-web-application
 
 Esta aplicación web fue desarrollada con Streamlit para explorar un conjunto de datos de anuncios de vehículos usados.
 
