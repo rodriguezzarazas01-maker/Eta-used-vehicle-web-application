@@ -11,4 +11,4 @@ El objetivo es practicar el desarrollo de una aplicación web interactiva conect
 
 
 # Link del proyecto en streamlit
-https://proyecto-sprint-7-2-meiz.onrender.comn
+https://proyecto-sprint-7-2-meiz.onrender.com
